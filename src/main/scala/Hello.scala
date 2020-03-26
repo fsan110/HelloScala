@@ -3,8 +3,10 @@ object Hello {
     // Scala does not require semi-colons !
     println("Hello, world")
     // Using the calculator cube function
-    val cube3 : Int = Calculator.cube(3)
-    println(cube3)
+    val a : Int = 3
+    val cube3 : Int = Calculator.cube(a)
+    println("Cube of " + a.toString + " is " + cube3.toString )
+
 
 
   }

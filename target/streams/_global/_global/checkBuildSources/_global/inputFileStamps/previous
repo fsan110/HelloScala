@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/feneel/IdeaProjects/HelloScala/build.sbt","3aaca8e5ce262fa4110edc46383cb8095482cdc6"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["C:\\Users\\Fenee\\IntelliJProjects\\HelloScala\\build.sbt","39aab75c8afe9684b4ecbc0d4f536ba52b7b8600"]],"lastModifiedTimes":[]}]
